@@ -19,7 +19,7 @@ nav .left h3 {
     font-size: 1.5rem;
 }
 .firstsection{
-    margin: 50px 0;
+/*     margin: 50px 0; */
     /* background: url(gif1.gif) no-repeat right ; */
 }
 .leftsection{
@@ -29,7 +29,7 @@ nav .left h3 {
    
 }
 .rightsection{
-    /* display: none; */
+    display: none;
 }
 .right ul{
     margin: 0;
