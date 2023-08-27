@@ -115,4 +115,9 @@ nav .left h3 {
 }
 .footer{
     justify-content: space-between;
+    height: 144px;
 }
+.logo h1{
+    font-size: 1rem;
+}
+
