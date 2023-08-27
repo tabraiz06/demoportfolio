@@ -1,0 +1,115 @@
+nav{
+    flex-direction: column;
+    height: 117px;
+    
+    align-items: center;
+
+}
+.left img{
+    position: relative;
+   
+    top: 4px;
+    left: 69px;
+
+}
+nav .left h3 {
+    position: relative;
+    left: 11px;
+    top: -6px;
+    font-size: 1.5rem;
+}
+.firstsection{
+    margin: 50px 0;
+    /* background: url(gif1.gif) no-repeat right ; */
+}
+.leftsection{
+    margin: 40px;
+    margin-left: 16px;
+    margin-right: 0;
+   
+}
+.rightsection{
+    /* display: none; */
+}
+.right ul{
+    margin: 0;
+}
+.right ul li{
+    margin: 0 32px;
+}
+.box-1{
+    height: 171vh;
+    justify-content: center;
+    display: flex;
+    margin-top: 0;
+}
+.box-1 .horizon{
+    position: relative;
+    top: -594px;
+    align-items: center;
+    flex-direction: column;
+   
+}
+.box{
+    height: 136vh;
+    position: relative;
+ 
+
+
+
+}
+.box .horizon{
+    position: relative;
+    top: -313px;
+    align-items: center;
+    flex-direction: column;
+}
+.box #ver1{
+    position: relative;
+    top: 225px;
+}
+.box #ver2{
+   
+    position: relative;
+    top: 511px;
+
+
+}
+
+.third{
+    position: relative;
+    
+    margin-top: 0;
+}
+#ver-1{
+    position: relative;
+    top: 258px;
+}
+#ver-2{
+    position: relative;
+    top: 550px;
+   
+}
+#ver-3{
+    top: 850px;
+    position: relative;
+}
+.desc{
+    position: relative;
+    left: -146px;
+}
+.projects{
+    margin: 0;
+    position: relative;
+   
+
+
+}
+.inprojects{
+    position: relative;
+   
+
+}
+.footer{
+    justify-content: space-between;
+}
