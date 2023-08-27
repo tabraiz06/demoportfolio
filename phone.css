@@ -35,7 +35,8 @@ nav .left h3 {
     margin: 0;
 }
 .right ul li{
-    margin: 0 32px;
+    margin: 0;
+    margin-right:15px;
 }
 .box-1{
     height: 171vh;
