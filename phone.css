@@ -20,6 +20,8 @@ nav .left h3 {
 }
 .firstsection{
     margin: 0;
+    height: 36vh;
+    
     /* background: url(gif1.gif) no-repeat right ; */
 }
 .leftsection{
@@ -36,10 +38,10 @@ nav .left h3 {
 }
 .right ul li{
     margin: 0;
-    margin-right:15px;
+    margin-right: 15px;
 }
 .box-1{
-    height: 171vh;
+    height: 140vh;
     justify-content: center;
     display: flex;
     margin-top: 0;
@@ -52,7 +54,7 @@ nav .left h3 {
    
 }
 .box{
-    height: 136vh;
+    height: 110vh;
     position: relative;
  
 
