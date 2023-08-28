@@ -42,10 +42,13 @@ nav .left h3 {
     /* background: url(gif1.gif) no-repeat right ; */
 }
 .leftsection{
+    
+
+   padding-top: 12vh;
+    padding-left: 15vw;
     margin: 0px;
-   
-   position: relative;
-   left: 0;
+    position: relative;
+    left: 0;
    
 }
 .rightsection{
@@ -65,7 +68,7 @@ main{
     width: 100%;
 }
 .box-1{
-    height: 155vh;
+    height: 180vh;
     justify-content: center;
     display: flex;
     margin-top: 0;
@@ -78,7 +81,7 @@ main{
    
 }
 .box{
-    height: 123vh;
+    height: 155vh;
     position: relative;
     width: 100%;
  
